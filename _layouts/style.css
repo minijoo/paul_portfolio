@@ -13,7 +13,7 @@
 }
 
 .embed-container {
-	--video--width: 1296;
+	--video--width: 960;
 	--video--height: 540;
 
 	position: relative;
