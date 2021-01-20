@@ -69,5 +69,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-
-baseurl: /paul_portfolio
