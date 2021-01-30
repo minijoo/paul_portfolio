@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
+  <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" />
+  <updated>2021-01-30T23:51:57+00:00</updated>
+  <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/</id>
+
+  
+    <title type="html">Paul Chung</title>
+  
+
+  
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Vivid</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="Vivid" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/film-2</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Film" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Deseo</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="Deseo" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/film-3</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Film" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Mercy</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="Mercy" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/film-1</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Film" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Verizon Emergency 30</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="Verizon Emergency 30" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/project-1</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Commercial" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">PetalCard Irresponsible World 30</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="PetalCard Irresponsible World 30" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/project-2</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Commercial" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Bank of America Swipe Right 15</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="Bank of America Swipe Right 15" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/project-3</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Commercial" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Bank of America Big Boy 15</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="Bank of America Big Boy 15" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/project-4</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Commercial" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Snapchat Spectacles 48</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="Snapchat Spectacles 48" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/project-5</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Commercial" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Hertz Milers Bunny 15</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/" rel="alternate" type="text/html" title="Hertz Milers Bunny 15" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/project-6</id>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/paul_portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Commercial" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
