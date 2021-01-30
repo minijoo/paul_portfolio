@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-18
+img: boa_two_cards.png
+alt: image-alt
+project-date: 2019
+category: Commercial
+video-id: 504541076
+title: Bank of America Swipe Right 15 
+---

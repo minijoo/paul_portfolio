@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-18
+img: boa_thinking_man.png
+alt: image-alt
+project-date: 2019
+category: Commercial
+video-id: 504545998
+title: Bank of America Big Boy 15 
+---

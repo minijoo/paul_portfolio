@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-18
+img: snapchat.png
+alt: image-alt
+project-date: 2018
+category: Commercial
+video-id: 504541900
+title: Snapchat Spectacles 48
+---

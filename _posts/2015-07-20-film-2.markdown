@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-18
+img: vivid.png
+alt: image-alt
+project-date: 2019
+category: Film
+video-id: 504555255
+title: Vivid 
+---
